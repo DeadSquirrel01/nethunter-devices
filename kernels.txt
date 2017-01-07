@@ -108,8 +108,8 @@ If you wish to add a kernel/new device, leave a link to source here and feel fre
 # - Samsung Galaxy A5
 # TouchWiz
 # git clone https://github.com/DeadSquirrel01/nethunter-kernel-a5ulte.git -b touchwiz-6.0
-# AOSP/CM
-# git clone https://github.com/DeadSquirrel01/nethunter-kernel-a5ulte.git -b cm-13.0
+# AOSP/LineageOS
+# git clone https://github.com/DeadSquirrel01/android_kernel_samsung_msm8916.git -b nethunter-cm-14.1
 
 # - Sony Xperia Z
 # CM 13.0
